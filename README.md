@@ -5,6 +5,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🙇‍♀️I'm Yeonhoo Hur 🐒 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> About me: </div> 
     </div>
+    </div>
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -20,6 +22,8 @@
           <br/><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
+    </div>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
